@@ -58,16 +58,16 @@ function App() {
             </div>
 
             <div className="hidden md:flex items-center space-x-8">
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              <a href="https://deepware.vercel.app/" className="text-gray-300 hover:text-white transition-colors">
                 Home
               </a>
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              <a href="https://deepware.vercel.app/#services" className="text-gray-300 hover:text-white transition-colors">
                 Services
               </a>
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              <a href="https://deepware.vercel.app/#testimonials" className="text-gray-300 hover:text-white transition-colors">
                 Testimonials
               </a>
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              <a href="https://deepware.vercel.app/register" className="text-gray-300 hover:text-white transition-colors">
                 Start Project
               </a>
             </div>
