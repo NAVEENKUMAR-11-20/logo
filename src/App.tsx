@@ -39,13 +39,14 @@ function App() {
   };
 
   return (
-    <div className={`min-h-screen transition-colors duration-300 ${isDark ? 'dark' : ''}`}>
+      <div className="min-h-screen transition-colors duration-300 bg-white text-black dark:bg-gray-900 dark:text-white">
       {/* Navigation */}
       <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled 
-          ? 'bg-gray-900/95 backdrop-blur-md shadow-lg' 
-          : 'bg-gray-900'
-      }`}>
+  isScrolled
+    ? 'bg-white/90 dark:bg-gray-900/95 backdrop-blur-md shadow-lg'
+    : 'bg-transparent dark:bg-gray-900'
+}`}>
+
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
