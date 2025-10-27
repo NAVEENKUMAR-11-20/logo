@@ -53,7 +53,7 @@ function App() {
               <div className="w-8 h-8 bg-blue-600 rounded flex items-center justify-center">
                  <img src="/lo.png"
                   alt="Deep Ware Studio Logo"
-                  className="h-16 w-auto object-contain"/>
+                  className="h-20 w-auto object-contain"/>
               </div>
               <span className="text-xl font-bold text-white">
                 DeepWare Studio
