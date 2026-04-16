@@ -54,7 +54,7 @@ function App() {
                 <Code className="w-5 h-5 text-white" />
               </div>
               <span className="text-xl font-bold text-white">
-                DeepWare Studio
+                DeepWare 
               </span>
             </div>
 
@@ -180,7 +180,7 @@ function App() {
         <section className="py-20 bg-gray-50 dark:bg-gray-800">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-4xl font-bold text-center text-gray-900 dark:text-white mb-16">
-              Why Choose DeepWare Studio
+              Why Choose DeepWare 
             </h2>
             
             <div className="space-y-8">
