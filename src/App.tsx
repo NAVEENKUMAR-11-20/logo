@@ -54,21 +54,21 @@ function App() {
                 <Code className="w-5 h-5 text-white" />
               </div>
               <span className="text-xl font-bold text-white">
-                DeepWare 
+                DenveX
               </span>
             </div>
 
             <div className="hidden md:flex items-center space-x-8">
-              <a href="https://deepware.vercel.app/" className="text-gray-300 hover:text-white transition-colors">
+              <a href="https://denvex.vercel.app/" className="text-gray-300 hover:text-white transition-colors">
                 Home
               </a>
-              <a href="https://deepware.vercel.app/#services" className="text-gray-300 hover:text-white transition-colors">
+              <a href="https://denvex.vercel.app/#services" className="text-gray-300 hover:text-white transition-colors">
                 Services
               </a>
-              <a href="https://deepware.vercel.app/#testimonials" className="text-gray-300 hover:text-white transition-colors">
+              <a href="https://denvex.vercel.app/#testimonials" className="text-gray-300 hover:text-white transition-colors">
                 Testimonials
               </a>
-              <a href="https://deepware.vercel.app/register" className="text-gray-300 hover:text-white transition-colors">
+              <a href="https://denvex.vercel.app/register" className="text-gray-300 hover:text-white transition-colors">
                 Start Project
               </a>
             </div>
@@ -180,7 +180,7 @@ function App() {
         <section className="py-20 bg-gray-50 dark:bg-gray-800">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-4xl font-bold text-center text-gray-900 dark:text-white mb-16">
-              Why Choose DeepWare 
+              Why Choose DenveX
             </h2>
             
             <div className="space-y-8">
